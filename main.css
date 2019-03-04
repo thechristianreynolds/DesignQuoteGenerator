@@ -1,0 +1,20 @@
+#gener{
+    margin-left: -.5em;
+  }
+  
+  #quote {
+      padding-left: 1em;
+      padding-right: 1em;
+  }
+  
+  #author {
+      padding-right: 1em;
+  }
+   
+  .container{
+    margin-top: 20em;
+  }
+  .background {
+    background-color: black;
+  }
+  
